@@ -1,9 +1,9 @@
 ---
 name: MGD-TimeSheet
 about: Use this for time payment request, plus expenses (if any)
-title: ''
+title: NAME - TIMESHEET - DATES - NONCE
 labels: ''
-assignees: ''
+assignees: annwillmott
 
 ---
 
