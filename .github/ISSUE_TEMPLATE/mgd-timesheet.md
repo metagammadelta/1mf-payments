@@ -1,17 +1,8 @@
 ---
-name: MGD-Expense
-about: Describe this issue template's purpose here.
+name: MGD-TimeSheet
+about: Use this for time payment request, plus expenses (if any)
 title: ''
 labels: ''
-assignees: annwillmott
-
----
-
----
-name: MGD Expenses
-about: Use this to submit payment request when it's expenses only
-title: NAME - Expense + Period - Nonce
-labels: payments
 assignees: ''
 
 ---
@@ -23,7 +14,17 @@ assignees: ''
 * Amount to pay + requested currency:
 * Wallet: 
 
-## Expense Details:
+
+## Hourly Work - Detail:
+* Time period: 
+* Total hours:
+* Rate: 
+* Total in USD:
+* USD value of ETH on last day of period: 
+* Amount to pay in ETH:
+
+## Expenses - Detail:
+
 List expenses here (or upload a sheet containing this info for each expense):
 
 * Date of expense
@@ -34,8 +35,16 @@ List expenses here (or upload a sheet containing this info for each expense):
 
 Supporting Documentation (ie TX ID, invoice link or upload)
 
+
+Summary of work in this time period:
+
+
+Detailed time tracking or other supporting info:
+
+
+
 ## Payment Processing
-**To be filled out by multisig member**
+**To be filled out by multisig member:**
 
 * Date paid:
 * Multisig Nonce: 
