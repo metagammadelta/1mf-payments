@@ -1,5 +1,5 @@
 ---
-name: MGD-TimeSheet
+name: MGDFellowship-TimeSheet
 about: Use this for time payment request, plus expenses (if any)
 title: NAME - TIMESHEET - DATES - NONCE
 labels: ''
