@@ -7,7 +7,7 @@ assignees: annwillmott
 
 ---
 
-# MGD-Fellowship - Payments (Expense)
+# MGDFellowship - Payments (Expense)
 
 ## Payment Request:
 * Owner:
